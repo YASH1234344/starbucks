@@ -7,7 +7,7 @@
 
 
 .main-container {
-    padding: 30px;
+
     min-height: 100vh;
     
 }
@@ -40,10 +40,14 @@
 
 
 .right-nav {
-    width: 30%;
+    width: 20%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    i{
+        width: 20px;
+    }
 
 }
 
